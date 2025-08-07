@@ -15,20 +15,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi!! My name's Rithvik (Rikki for short), and I'm super interested in AI/ML and Full Stack. Currently recruiting for any and all tech internships so feel free to reach out and connect 😸!
+### Hi!! My name's Rithvik (Rikki for short), and I'm super interested in AI/ML and Full Stack. Currently recruiting for any and all tech internships so feel free to reach out and connect 😸!
 
-💼 My current repos are mostly
+#### 💼 My current repos are mostly
   - full stack
   - ML projects I did from Kaagle datasets
   - and other misc. personal projects
 
- 💬 Ask me about working with startups and launching MVP's! I love contributing to passionate work environments like those at and have learned immensely from my experiences 😇
+#### 💬 Ask me about working with startups and launching MVP's! I love contributing to passionate work environments like those at and have learned immensely from my experiences 😇
 
 🌱 Looking to learn more about cloud engineering and AI! Have any advice or share similar interests? feel free to 👇
 
- 🤝 Get in touch on [LinkedIn](https://www.linkedin.com/in/rithvikvinod/) or through [email](mailto:Rithvin@umich.edu) I love meeting new people, learning from eachother, and building rapport :)
+ #### 🤝 Get in touch on
+ [LinkedIn](https://www.linkedin.com/in/rithvikvinod/) or through [email](mailto:Rithvin@umich.edu) I love meeting new people, learning from eachother, and building rapport :)
 
- 😶‍🌫️ A little about me:
+ #### 😶‍🌫️ A little about me:
  - i love to dance (shoutout Michigan Manzat lol)
  - im a maximalist 😖 more is more
  - idk i've been enjoying sweetgreen recently 🤔
