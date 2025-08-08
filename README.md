@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 #### 💼 My current repos are mostly
   - full stack
-  - ML projects I did from Kaagle datasets
+  - ML projects with data sourced from Kaagle datasets
   - and other misc. personal projects
 
 
