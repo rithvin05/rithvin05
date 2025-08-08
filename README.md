@@ -35,6 +35,6 @@ Here are some ideas to get you started:
  #### 😶‍🌫️ A little about me:
  - i love to dance (shoutout Michigan Manzat lol)
  - im a maximalist 😖 more is more
- - idk i've been enjoying sweetgreen recently 🤔
+ -  sweetgreen warrior 🥬
  
 
