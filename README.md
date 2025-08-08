@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi!! My name's Rithvik (Rikki for short), and I'm super interested in AI/ML and Full Stack. Currently recruiting for any and all tech internships so feel free to reach out and connect 😸!
+### Hi!! My name's Rithvik (Rikki for short), and I'm super interested in AI/ML and Full Stack. Currently recruiting for tech internships so feel free to reach out and connect 😸!
 
 
 #### 💼 My current repos are mostly
