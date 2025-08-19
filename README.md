@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi!! My name's Rithvik (Rikki for short), and I'm super interested in AI/ML and Full Stack. Currently recruiting for tech internships so feel free to reach out and connect 😸!
+### Hi!! My name's Rithvik (Rikki for short), and I'm super interested in AI/ML and Full Stack. Currently recruiting for SWE internships so feel free to reach out and connect 😸!
 
 
 #### 💼 My current repos are mostly
@@ -32,9 +32,5 @@ Here are some ideas to get you started:
 
  🤝 Get in touch on [LinkedIn](https://www.linkedin.com/in/rithvikvinod/) or through [email](mailto:Rithvin@umich.edu) I love meeting new people, learning from eachother, and building rapport :)
 
- #### 😶‍🌫️ A little about me:
- - i love to dance (shoutout Michigan Manzat lol)
- - im a maximalist 😖 more is more
- -  sweetgreen warrior 🥬
  
 
